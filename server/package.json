@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server component for Uevent",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spoty-O/Uevent.git"
+  },
+  "author": "Spoty-O",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spoty-O/Uevent/issues"
+  },
+  "homepage": "https://github.com/Spoty-O/Uevent#readme"
+}
